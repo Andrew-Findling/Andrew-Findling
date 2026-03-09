@@ -1,51 +1,23 @@
-# Andrew Findling
+# Hi, I'm Andrew
 
-### Physics + Code + AI
-
-Computer science student building projects in **software engineering, simulation, game development, and machine learning**.
-
----
-
-## Current Focus
-- projectile motion simulation
-- game logic and state machines
-- machine learning experiments
-- algorithm practice
+Im a recent admit to Computer science at the University of Texas at Austin. I have experience with C++, Python, CSS, and HTML, but I mainly program in Java. I focus mainly on the development of independent projects to expand my skills across all forms of Computer Science 🧠
 
 ---
 
 ## Projects
 
-### Knightbound
-Mobile game published on the App Store with **1.2K+ downloads**.  
-Built with advanced logic, state management, and Google AdMob integration.
+ - Knightbound, mobile game published on the App Store with **1.2K+ downloads**.  
+ - Projectile Motion Simulator in JavaFX that models and visualizes projectile trajectories based on interactive inputs.
+ - AI Agents that can beat pacman, solve mazes, and recognize handwritten numbers.
 
-### Projectile Motion Simulator
-Interactive **Java / JavaFX** project that models and visualizes projectile trajectories using physics and math.
+## Experience
 
-### ML Projects
-Built:
-- Pac-Man AI
-- Maze-solving AI
-- Handwritten digit recognition model
-
----
-
-## Tech
-**Java** • **Python** • **C++** • **JavaScript** • **HTML** • **CSS**  
-**JavaFX** • **Godot** • **Arduino** • **Greenfoot**
-
----
-
-## Progress
-**LeetCode:** 98+ problems solved
-
----
-
-## Currently Building
-Projects that combine **math, logic, and interactivity**.
+- Machine Learning Academy at UT Austin, where I built ML models
+- Computer Science Academy for all at UT Austin, where I built an Arduino project that lights up based on noise input
+- Academy for Game Development at UT Austin, where I worked with a team to develop a game in Godot that is now on Itch.io
 
 ## Links
+
 - App Store: [Add link]
 - GitHub: [Add link]
 - Itch.io: [Add link]
