@@ -1,4 +1,4 @@
-# Hi, I'm Andrew
+# Hi, I'm Andrew 👋
 
 Im a recent admit to Computer science at the University of Texas at Austin. I have experience with C++, Python, CSS, and HTML, but I mainly program in Java. I focus mainly on the development of independent projects to expand my skills across all forms of Computer Science 🧠
 
