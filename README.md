@@ -9,6 +9,7 @@ Im a recent admit to Computer science at the University of Texas at Austin. I ha
 
  - Knightbound, mobile game published on the App Store with **1.2K+ downloads**.  
  - Projectile Motion Simulator in JavaFX that models and visualizes projectile trajectories based on interactive inputs.
+   [View Repository](https://github.com/Andrew-Findling/ProjectileMotionSimulator)
 
 ## Experience
 
@@ -21,5 +22,3 @@ Im a recent admit to Computer science at the University of Texas at Austin. I ha
 - App Store: [(https://apps.apple.com/us/app/knightbound/id6747996870)]
 - Itch.io: [(https://quinnstergames.itch.io/leon-climbs-a-big-tree)]
 
-<!-- for when i create repos showcasing my projects
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=projectile-simulator&theme=tokyonight)](https://github.com/YOURUSERNAME/projectile-simulator)
