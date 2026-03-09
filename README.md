@@ -1,8 +1,9 @@
-# Hi, I'm Andrew 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=header&text=Hi,%20I'm%20Andrew!&fontSize=40&fontColor=ffffff)
 
 Im a recent admit to Computer science at the University of Texas at Austin. I have experience with C++, Python, CSS, and HTML, but I mainly program in Java. I focus mainly on the development of independent projects to expand my skills across all forms of Computer Science 🧠
 
----
+![My Skills](https://skillicons.dev/icons?i=java,python,html,css,arduino)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## Projects
 
@@ -20,3 +21,6 @@ Im a recent admit to Computer science at the University of Texas at Austin. I ha
 
 - App Store: [(https://apps.apple.com/us/app/knightbound/id6747996870)]
 - Itch.io: [(https://quinnstergames.itch.io/leon-climbs-a-big-tree)]
+
+<!-- for when i create repos showcasing my projects
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=projectile-simulator&theme=tokyonight)](https://github.com/YOURUSERNAME/projectile-simulator)
