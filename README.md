@@ -5,15 +5,14 @@ Im a recent admit to Computer science at the University of Texas at Austin. I ha
 ![My Skills](https://skillicons.dev/icons?i=java,python,html,css,arduino)
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
-## Projects
+## Independent Projects
 
  - Knightbound, mobile game published on the App Store with **1.2K+ downloads**.  
  - Projectile Motion Simulator in JavaFX that models and visualizes projectile trajectories based on interactive inputs.
- - AI Agents that can beat pacman, solve mazes, and recognize handwritten numbers.
 
 ## Experience
 
-- Machine Learning Academy at UT Austin, where I built ML models
+- Machine Learning Academy at UT Austin, where I built AI agents that beat pacman, solved mazes, and recognized handwritten numbers.
 - Computer Science Academy for all at UT Austin, where I built an Arduino project that lights up based on noise input
 - Academy for Game Development at UT Austin, where I worked with a team to develop a game in Godot that is now on Itch.io
 
