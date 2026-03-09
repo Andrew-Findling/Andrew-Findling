@@ -18,6 +18,5 @@ Im a recent admit to Computer science at the University of Texas at Austin. I ha
 
 ## Links
 
-- App Store: [Add link]
-- GitHub: [Add link]
-- Itch.io: [Add link]
+- App Store: [(https://apps.apple.com/us/app/knightbound/id6747996870)]
+- Itch.io: [(https://quinnstergames.itch.io/leon-climbs-a-big-tree)]
