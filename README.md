@@ -12,7 +12,7 @@ Im a recent admit to Computer science at the University of Texas at Austin. I ha
 
 ## Experience
 
-- Machine Learning Academy at UT Austin, where I built AI agents that beat pacman, solved mazes, and recognized handwritten numbers.
+- Machine Learning Academy at UT Austin, where I built ML agents that beat pacman, solved mazes, and recognized handwritten numbers.
 - Computer Science Academy for all at UT Austin, where I built an Arduino project that lights up based on noise input
 - Academy for Game Development at UT Austin, where I worked with a team to develop a game in Godot that is now on Itch.io
 
