@@ -10,7 +10,7 @@ Im a recent admit to Computer science at the University of Texas at Austin. I ha
  - Knightbound, mobile game published on the App Store with **1.2K+ downloads**.  
  - Projectile Motion Simulator in JavaFX that models and visualizes projectile trajectories based on interactive inputs.
    [View Repository](https://github.com/Andrew-Findling/ProjectileMotionSimulator)
- - Chess AI project that displays an interactive chess GUI, allowing you to play against a minimax algorithm rated 1300 elo (better than 95% of    chess players)[View Repository](https://github.com/Andrew-Findling/ChessRecreationPlusBot)
+ - Chess AI project that displays an interactive chess GUI, allowing you to play against a minimax algorithm rated 1300 elo (better than 95% of    chess players). [View Repository](https://github.com/Andrew-Findling/ChessRecreationPlusBot)
 
 ## Experience
 
